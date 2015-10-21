@@ -1,0 +1,661 @@
+# Translation of zAlive in French (France)
+# This file is distributed under the same license as the zAlive package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-17 06:19:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: zAlive\n"
+
+#. Theme Name of the plugin/theme
+msgid "zAlive"
+msgstr "zAlive"
+
+#. Description of the plugin/theme
+msgid "zAlive is a responsive two columns theme with green and black color. With rich options you can custom the slider, excerpt, advertisement code,primary sidebar layout, copyright, nav menu, CSS style, scripts and more."
+msgstr "zAlive est un thème adaptatif (responsive) sur 2 colonnes, avec du vert et du noir comme couleurs. Grâce aux options variées vous pouvez personnaliser le slider,  les extraits, ajouter du code pour la publicité, barre latérale primaire, copyright, menu de navigation , style CSS , scripts et plus..."
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr "Liens"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Pleine Largeur"
+
+#. Template Name of the plugin/theme
+msgid "Archive"
+msgstr "Archive"
+
+#. Template Name of the plugin/theme
+msgid "Category"
+msgstr "Cat&eacute;gorie"
+
+#: template/options.php:245
+msgid "Restore Defaults"
+msgstr "Restaurer les paramètres par défaut"
+
+#: template/options.php:239
+msgid "Footer Custom Scripts"
+msgstr "Scripts personnalisés du pied de page"
+
+#: template/options.php:231
+msgid "Custom CSS Style"
+msgstr "Styles CSS personnalisés"
+
+#: template/options.php:235
+msgid "Header Custom Scripts"
+msgstr "Scripts personnalisés de l'entête (header)"
+
+#: template/options.php:228
+msgid "Custom CSS Styles And Scripts"
+msgstr "Styles CSS et Scripts personnalisés"
+
+#: template/options.php:244
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: template/options.php:224
+msgid "Set in : <code>&nbsp;WordPress Admin > Appearance > Menus&nbsp;</code>"
+msgstr "Configuré dans : <code>&nbsp;WordPress Admin > Appearance > Menus&nbsp;</code>"
+
+#: template/options.php:219
+msgid "Copyright Text"
+msgstr "Texte de Copyright"
+
+#: template/options.php:223
+msgid "Custom Links"
+msgstr "Liens personnalisés"
+
+#: template/options.php:109 template/options.php:133 template/options.php:157
+#: template/options.php:181
+msgid "or enter the image URL here"
+msgstr "ou entrer une url d'image ici"
+
+#: template/options.php:113 template/options.php:137 template/options.php:161
+#: template/options.php:185
+msgid "Slider%s Title"
+msgstr "Titre du Slider%s"
+
+#: template/options.php:117 template/options.php:141 template/options.php:165
+#: template/options.php:189
+msgid "Slider%s Content"
+msgstr "Contenu du Slider%s"
+
+#: template/options.php:121 template/options.php:145 template/options.php:169
+#: template/options.php:193
+msgid "Slider%s Link URL"
+msgstr "Lien du Slider%s"
+
+#: template/options.php:212
+msgid "Set in : <code>&nbsp;WordPress Admin > Appearance > Widgets&nbsp;</code>"
+msgstr "Configuré dans : <code>&nbsp;WordPress Admin > Appearance > Widgets&nbsp;</code>"
+
+#: template/options.php:216
+msgid "Footer"
+msgstr "Pied de page"
+
+#: template/options.php:97
+msgid "Pause Time(in millisecond)"
+msgstr "Temps de pause (en milliseconde)"
+
+#: template/options.php:101 template/options.php:125 template/options.php:149
+#: template/options.php:173
+msgid "Slider%s Image"
+msgstr "Image du Slider%s"
+
+#: template/options.php:109 template/options.php:133 template/options.php:157
+#: template/options.php:181
+msgid "Select Image"
+msgstr "Sélectionnez une image"
+
+#: template/options.php:87 template/options.php:201
+msgid "Enable Or Not"
+msgstr "Activé ou Pas"
+
+#: template/options.php:91 template/options.php:205
+msgid "Enable In Home Page"
+msgstr "Activé sur la page Accueil"
+
+#: template/options.php:92 template/options.php:206
+msgid "Disable"
+msgstr "Désactiver"
+
+#: template/options.php:63
+msgid "Show Tagline Directly"
+msgstr "Montrer la ligne de tag directement"
+
+#: template/options.php:67
+msgid "Header Searchbox"
+msgstr "Entête de la boîte de recherche"
+
+#: template/options.php:71
+msgid "Breadcrumb(Path) Navigation"
+msgstr "Navigation par Fil d'Ariane"
+
+#: template/options.php:75
+msgid "Show \"GoTop\" When Scrolling"
+msgstr "Montrer  \"GoTop\" en scrollant"
+
+#: template/options.php:79
+msgid "Show Post URL In Post Page"
+msgstr "Montrer l'url du post sur la page du post"
+
+#: template/options.php:84
+msgid "Slider"
+msgstr "Diaporama"
+
+#: template/options.php:49
+msgid "Hide Posts List And Primary Sidebar In Homepage"
+msgstr "Cacher la listes des posts et la sidebar principale sur la page Accueil"
+
+#: template/options.php:53
+msgid "Primary Sidebar Layout"
+msgstr "Disposition de la barre latérale primaire"
+
+#: template/options.php:56
+msgid "Shown On The Right"
+msgstr "Située à Droite"
+
+#: template/options.php:57
+msgid "Shown On The Left"
+msgstr "Située à Gauche"
+
+#: template/options.php:58
+msgid "Hidden"
+msgstr "Caché"
+
+#: template/options.php:25
+msgid "Enable zAlive WP-PageNavi Style"
+msgstr "Activer le style zAlive WP-PageNavi"
+
+#: template/options.php:29
+msgid "Automatic Excerpt In List Page"
+msgstr "Extrait automatique dans les pages Listes"
+
+#: template/options.php:33
+msgid "Automatic Excerpt Length(in word)"
+msgstr "Longueur Extrait automatique (en mots)"
+
+#: template/options.php:37
+msgid "Text for \"Read More\""
+msgstr "Texte pour \"Voir Plus\""
+
+#: template/options.php:41
+msgid "Advertisement Code(in content page)"
+msgstr "Code pour la publicité (en page de contenu)"
+
+#: template/options.php:46
+msgid "Layout"
+msgstr "Arrangement"
+
+#: template/options.php:21
+msgid "Open Comment Author Link In New Window"
+msgstr "Ouvrir les commentaires de l'auteur dans une nouvelle fenêtre"
+
+#: template/options.php:22 template/options.php:26 template/options.php:30
+#: template/options.php:50 template/options.php:64 template/options.php:68
+#: template/options.php:72 template/options.php:76 template/options.php:80
+#: template/options.php:90 template/options.php:204
+msgid "Enable"
+msgstr "Activer"
+
+#: template/entry-meta-tertiary.php:9
+msgid "Short URL for this post : "
+msgstr "URL courte pour ce post :"
+
+#: template/entry-meta-tertiary.php:11
+msgid "URL for this post : "
+msgstr "URL de ce post :"
+
+#: template/options.php:10
+msgid "All settings saved."
+msgstr "Tous les paramètres sont sauvés."
+
+#: template/options.php:18
+msgid "General"
+msgstr "Général"
+
+#. #-#-#-#-#  zalive.pot (zAlive 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: template/entry-meta-secondary.php:12
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: template/entry-meta-secondary.php:8
+msgid "Posted in"
+msgstr "Posté dans"
+
+#: template/entry-meta-primary-page.php:14 template/entry-meta-primary.php:13
+msgid "Comments Off"
+msgstr "Commentaires fermés"
+
+#: template/entry-meta-primary-page.php:14 template/entry-meta-primary.php:13
+msgid "No comment yet"
+msgstr "Aucun commentaire pour le moment"
+
+#: template/entry-meta-primary-page.php:14 template/entry-meta-primary.php:13
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: template/entry-meta-primary-page.php:9 template/entry-meta-primary.php:9
+msgid "Author: "
+msgstr "Auteur&nbsp;:"
+
+#: template/content-none.php:16
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#: template/content-none.php:13
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Désolé, mais rien ne correspond à votre critère de recherche. Veuillez réessayer avec d&rsquo;autres mots-clés."
+
+#: template/content-none.php:11
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous</a>&nbsp;!"
+
+#: template/content-none.php:8
+msgid "Nothing found"
+msgstr "Rien de trouvé"
+
+#: reply.php:54
+msgid "Website"
+msgstr "Site web"
+
+#: reply.php:48
+msgid "Email"
+msgstr "Adresse de contact"
+
+#: reply.php:43 reply.php:48
+msgid "required"
+msgstr "Obligatoire"
+
+#: reply.php:43
+msgid "Name"
+msgstr "Nom"
+
+#: reply.php:29
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Se déconnecter de ce compte\">Se déconnecter&nbsp;?</a>"
+
+#: reply.php:23
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez <a href=\"%s\">être connecté(e)</a> pour rédiger un commentaire."
+
+#: reply.php:14
+msgid "Cancle Reply"
+msgstr "Annuler Réponse"
+
+#: reply.php:15
+msgctxt "submit comment"
+msgid "Post Comment"
+msgstr "Poster un commentaire"
+
+#: reply.php:17
+msgctxt "noun"
+msgid "Comment"
+msgstr "Commentaire"
+
+#: reply.php:13
+msgid "Leave a Reply to %s"
+msgstr "Répondre à %s"
+
+#: reply.php:12
+msgid "Leave a Reply"
+msgstr "Laisser un commentaire"
+
+#: functions.php:976
+msgid "All settings will be set to default.Do you want to restore anyway ?"
+msgstr "Tous les paramètres vont être réinitialisés. Voulez vous continuer?"
+
+#: page.php:19 template/content.php:13 template/page-full-width.php:17
+msgid "Pages: "
+msgstr "Pages&nbsp;:"
+
+#: functions.php:963 template/options.php:8
+msgid "zAlive Theme Settings"
+msgstr "Paramètres du Theme zAlive"
+
+#: functions.php:963
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: functions.php:799
+msgid "Reply"
+msgstr "Répondre"
+
+#: functions.php:798
+msgid "Edit"
+msgstr "Modifier"
+
+#: functions.php:789
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation."
+
+#: functions.php:778
+msgid "Post Author"
+msgstr "Auteur de l&rsquo;article"
+
+#: functions.php:758
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#. translators: 1: date, 2: time
+#: functions.php:755 functions.php:783
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: functions.php:529 functions.php:648
+msgid "Orkut"
+msgstr "Orkut"
+
+#: functions.php:530 functions.php:651
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: functions.php:531 functions.php:654
+msgid "Weibo"
+msgstr "Weibo"
+
+#: functions.php:728
+msgid "Go Top"
+msgstr "Aller en haut"
+
+#: functions.php:748
+msgid "Pingback: "
+msgstr "Ping&nbsp;:"
+
+#: functions.php:527 functions.php:642
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: functions.php:526 functions.php:639
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: functions.php:528 functions.php:645
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: functions.php:525 functions.php:636
+msgid "Flickr"
+msgstr "Flickr"
+
+#: functions.php:522 functions.php:627
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: functions.php:523 functions.php:630
+msgid "Myspace"
+msgstr "Myspace"
+
+#: functions.php:524 functions.php:633
+msgid "deviantART"
+msgstr "deviantART"
+
+#: functions.php:521 functions.php:624
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: functions.php:520 functions.php:621
+msgid "YouTube"
+msgstr "YouTube"
+
+#: functions.php:519 functions.php:618
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: functions.php:518 functions.php:615
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions.php:517 functions.php:612
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:510
+msgid "Social Links(zAlive)"
+msgstr "Réseaux sociaux(zAlive)"
+
+#: functions.php:515 functions.php:606
+msgid "Contact Email"
+msgstr "Contact mail"
+
+#: functions.php:499
+msgid "Count(Random Posts)"
+msgstr "Nombre(posts au hasard)"
+
+#: functions.php:509
+msgid "Social Links Widget From zAlive"
+msgstr "Widget réseaux sociaux de zAlive"
+
+#: functions.php:493
+msgid "Count(Most Commented Posts)"
+msgstr "Nombre(posts les plus commentés)"
+
+#: functions.php:496
+msgid "Title(Random Posts)"
+msgstr "Titre(Posts au hasard)"
+
+#: functions.php:490
+msgid "Title(Most Commented Posts)"
+msgstr "Titre(Posts les plus commentés)"
+
+#: functions.php:483
+msgctxt "Most Commented Posts"
+msgid "Most Commented"
+msgstr "Les plus commentés"
+
+#: functions.php:451
+msgid "Most Commented & Random Posts(zAlive)"
+msgstr "Les plus commentés & Posts au hasard(zAlive)"
+
+#: functions.php:450
+msgid "Most Commented & Random Posts Widget From zAlive (with tab switch )"
+msgstr "Les plus commentés & Posts au hasard Widget de zAlive (avec onglets)"
+
+#: functions.php:410
+msgid "Random Posts(zAlive)"
+msgstr "Posts au hasard (zAlive)"
+
+#: functions.php:432 functions.php:483
+msgid "Random Posts"
+msgstr "Posts au hasard"
+
+#: functions.php:352
+msgid "Comments Count"
+msgstr "Nombre de commentaires"
+
+#: functions.php:355
+msgid "Avatar Size"
+msgstr "Taille de l'avatar"
+
+#: functions.php:358
+msgid "Maximum Count Of Comment Characters"
+msgstr "Nombre maximum de caractères dans un commentaire"
+
+#: functions.php:368
+msgid "Most Commented Posts Widget From zAlive"
+msgstr "Posts les plus commentés de zAlive"
+
+#: functions.php:369
+msgid "Most Commented Posts(zAlive)"
+msgstr "Posts les plus commentés (zAlive)"
+
+#: functions.php:391
+msgid "Most Commented Posts"
+msgstr "Posts les plus commentés"
+
+#: functions.php:399 functions.php:440
+msgid "Post Count"
+msgstr "Nombre de Posts"
+
+#: functions.php:409
+msgid "Random Posts Widget From zAlive"
+msgstr "Widget Posts au hasard  de zAlive"
+
+#: functions.php:516 functions.php:609
+msgid "RSS"
+msgstr "Flux"
+
+#: functions.php:318
+msgid "Recent Comments(zAlive)"
+msgstr "Commentaires récents (zalive)"
+
+#: functions.php:317
+msgid "Recent Comments Widget From zAlive"
+msgstr "Commentaires Récents Widget de zAlive"
+
+#: functions.php:342 sidebar.php:13
+msgid "Recent Comments"
+msgstr "Commentaires récents"
+
+#: functions.php:307 functions.php:349 functions.php:396 functions.php:437
+#: functions.php:603
+msgid "Title"
+msgstr "Titre"
+
+#: functions.php:294 template/header.php:46
+msgid "Type and search..."
+msgstr "Taper et Chercher..."
+
+#: functions.php:284
+msgid "Search Widget From zAlive"
+msgstr "Widget de recherche de zAlive"
+
+#: functions.php:285
+msgid "Search(zAlive)"
+msgstr "Recherche(zAlive)"
+
+#: functions.php:294 functions.php:303 template/header.php:47
+msgid "Search"
+msgstr "Recherche"
+
+#: functions.php:256 template/entry-meta-primary-page.php:14
+#: template/entry-meta-primary.php:13
+msgid "1 Comment"
+msgid_plural "%s Comments"
+msgstr[0] "1 Commentaire"
+msgstr[1] "%s Commentaires"
+
+#: functions.php:184
+msgid "Untitled Post"
+msgstr "Post sans titre"
+
+#: functions.php:170
+msgid "Yearly archives for <strong> %s </strong>"
+msgstr "Archives annuelles pour <strong> %s </strong>"
+
+#: functions.php:168
+msgid "Y"
+msgstr "A"
+
+#: functions.php:161
+msgid "Y/m"
+msgstr "A/m"
+
+#: functions.php:163
+msgid "Monthly archives for <strong> %s </strong>"
+msgstr "Archives mensuelles pour <strong> %s </strong>"
+
+#: functions.php:156
+msgid "Daily archives for <strong> %s </strong>"
+msgstr "Archives par jour pour <strong> %s </strong>"
+
+#: functions.php:149
+msgid "Posts from author [ <strong> %s </strong> ] "
+msgstr "Posts de l'auteur [ <strong> %s </strong> ] "
+
+#: functions.php:138
+msgid "Search result for [ <strong> %s </strong> ] "
+msgstr "Résultat de recherche pour [ <strong> %s </strong> ] "
+
+#: functions.php:133
+msgid "Posts with tag [ <strong> %s </strong> ] "
+msgstr "Posts avec mot-clé [ <strong> %s </strong> ] "
+
+#: functions.php:92
+msgid "You are here"
+msgstr "Vous êtes ici"
+
+#: functions.php:154
+msgid "Y/m/d"
+msgstr "d/m/Y"
+
+#: functions.php:29 template/options.php:198 template/options.php:211
+msgid "Secondary Sidebar"
+msgstr "Barre latérale secondaire"
+
+#: functions.php:79
+msgid "Page %s"
+msgstr "Page %s"
+
+#: comments.php:37 comments.php:48
+msgid "Comment is closed."
+msgstr "Les commentaires sont fermés"
+
+#: functions.php:15
+msgid "Top Nav Menu"
+msgstr "Menu de navigation du haut"
+
+#: functions.php:16
+msgid "Footer Custom Links"
+msgstr "Liens personnalisés du pied de page"
+
+#: functions.php:20
+msgid "Primary Sidebar"
+msgstr "Barre latérale principale"
+
+#: comments.php:28 index.php:33
+msgid "Next Page"
+msgstr "Page suivante"
+
+#: comments.php:27
+msgid "Comment Pagination: "
+msgstr "Pagination des commentaires : "
+
+#: 404.php:18
+msgid "Or you may want to : "
+msgstr "Ou vous souhaitez peut-être : "
+
+#: 404.php:19
+msgid "Back to Home "
+msgstr "Retour Accueil"
+
+#: comments.php:13
+msgid "Only 1 comment left"
+msgid_plural "There are %1$s comments left"
+msgstr[0] "Il ne reste qu'un commentaire"
+msgstr[1] "Il reste %1$s commentaires"
+
+#: comments.php:17
+msgctxt "go to comment"
+msgid "Go To Comment"
+msgstr "Aller aux commentaires"
+
+#: 404.php:15
+msgid "We&rsquo;re sorry but the page is not existed or deleted by the administrator. Perhaps searching can help."
+msgstr "Nous sommes désolés mais cette page n'existe plus ou a été effacée par un administrateur. Peut-être rechercher vous aidera."
+
+#: 404.php:13 functions.php:143
+msgid "Error 404,Page Not Found"
+msgstr "Erreur 404, Page Non Trouvée"
+
+#: comments.php:28 index.php:32
+msgid "Previous Page"
+msgstr "Page précédente"
+
+#. Author of the plugin/theme
+msgid "zenoven"
+msgstr "zenoven"
+
+#. Author URI of the plugin/theme
+msgid "http://www.zenoven.com/"
+msgstr "http://www.zenoven.com/"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.zenoven.com/themes/zAlive"
+msgstr "http://www.zenoven.com/themes/zAlive"
